@@ -1,0 +1,15 @@
+.button{
+
+    padding: .5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+}
+
+.button:hover{
+    background: grey !important;
+}
+
+.bx{
+    font-size: 1.5rem;
+}
